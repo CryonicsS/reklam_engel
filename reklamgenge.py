@@ -14,6 +14,7 @@ client = commands.Bot(command_prefix = '*')
 
 client.remove_command('help')
 
+TOKEN = "TOKEN"
 
 print("developed by cryonics")
 
